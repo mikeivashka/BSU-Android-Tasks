@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаб3</string>
+    <string name="question_hint">Введите вопрос</string>
+    <string name="answer_hint">Введите ответ</string>
+    <string name="exit_dialog_message">Вы действительно хотите выйти?</string>
+    <string name="exit_dialog_ok">Да</string>
+    <string name="exit_dialog_cancel">Нет</string>
+    <string name="exit_dialog_title">Выйти</string>
+    <string name="close_item">Закрыть приложение</string>
+    <string name="stop_the_timer">Остановить таймер</string>
+    <string name="startTimer">Запустить таймер</string>
+    <string name="timer_hint">секунд прошло</string>
+    <string name="timer_started">Таймер запущен</string>
+    <string name="timer_not_allowed">Таймер можно запустить только со страницы вопроса</string>
+    <string name="ok">OK</string>
+</resources>

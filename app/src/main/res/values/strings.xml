@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="question_hint">Enter question</string>
+    <string name="answer_hint">Enter answer</string>
+    <string name="exit_dialog_message">Do you want to exit the app?</string>
+    <string name="exit_dialog_ok">OK</string>
+    <string name="exit_dialog_cancel">Cancel</string>
+    <string name="exit_dialog_title">Exit</string>
+    <string name="close_item">Close app</string>
+    <string name="stop_the_timer">Stop the timer</string>
+    <string name="startTimer">Start a timer</string>
+    <string name="timer_hint">seconds passed</string>
+    <string name="timer_started">Timer started</string>
+    <string name="timer_not_allowed">Timer is allowed only on question page</string>
+    <string name="ok">OK</string>
+</resources>
